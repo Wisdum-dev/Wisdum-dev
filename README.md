@@ -4,7 +4,7 @@ const tecnologies = () => {
         otherTecnologies = ['Figma', 'Git', 'TypeScript'],
         backendTecnologies = ['Node.js'];
 
-    return `${frontendTecnologies} - ${otherTecnologies} - ${backendTecnologies} <- Studying now \n\n Trying to be fullstack`;
+    return `${frontendTecnologies} - ${otherTecnologies} - ${backendTecnologies} <- Studying now \n\n Trying to be fullstack`
 };
 
 console.log(tecnologies());
