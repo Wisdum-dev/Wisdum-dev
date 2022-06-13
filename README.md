@@ -1,13 +1,13 @@
 ```js
-const tecnologies = () => {
-    const frontendTecnologies = ['HTML', 'CSS', 'JavaScript'],
-        otherTecnologies = ['Figma', 'Git', 'TypeScript'],
-        backendTecnologies = ['Node.js'];
+const technologies = () => {
+    const frontendTechnologies = ['HTML', 'CSS', 'JavaScript'],
+        otherTechnologies = ['Figma', 'Git', 'TypeScript'],
+        backendTechnologies = ['Node.js'];
 
-    return `${frontendTecnologies} - ${otherTecnologies} - ${backendTecnologies} <- Studying now \n\n Trying to be fullstack`;
+    return `${frontendTechnologies} - ${otherTechnologies} - ${backendTechnologies} <- Studying now \n\n Trying to be fullstack`;
 };
 
-console.log(tecnologies());
+console.log(technologies());
 ```
 ## Github Stats
 
